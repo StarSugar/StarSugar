@@ -1,5 +1,5 @@
-- Hi, I’m @StarSugar
-- I’m interested in coding small apps by myself, and study new algorithm.
+- Hi, I’m @StarSugar from China, or "Zh'ong Hua" a better name for China.
+- I’m interested in coding small projects by myself, and study some new algorithmes.
 - I’m currently learning in high school.
 - I’m looking to collaborate on just study.
 - How to reach me by sending me e-mail lizhongyou@gmail.com
