@@ -1,4 +1,4 @@
-- Hi, I’m @StarSugar from China, or "Zh'ong Hua" a better name in common Chinese.
+- Hi, I’m @StarSugar from China, or you could say me from "Zh'ong Hua", Zh'ong Hua is a better name to China in common Chinese.
 - I’m interested in coding small projects by myself, and study some new algorithmes.
 - I’m currently learning in high school.
 - I’m looking to collaborate on just study.
