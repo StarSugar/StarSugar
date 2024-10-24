@@ -1,8 +1,8 @@
-- Hi, I’m @StarSugar from China, or you could say me from "Zh'ong Hua", Zh'ong Hua is a better name to China in common Chinese.
-- I’m interested in coding small projects by myself, and study some new algorithmes.
-- I’m currently learning in high school.
-- I’m looking to collaborate on just study.
-- How to reach me by sending me e-mail lizhongyou@gmail.com
+- Hi, I'm @StarSugar from China, or "Zh'ong Hua", which is a more appropriate name for China in common Chinese.
+- I'm interested in writing some small projects by myself and researching some new algorithms.
+- I'm currently in high school.
+- I'm looking for cooperative study.
+- To contact me, please send an email to lizhongyou2017@gmail.com
 
 <!---
 StarSugar/StarSugar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
